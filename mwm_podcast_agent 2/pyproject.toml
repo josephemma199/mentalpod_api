@@ -1,9 +1,0 @@
-[build-system]
-requires = ["setuptools", "wheel"]
-
-[project]
-name = "mwm-podcast-agent"
-version = "0.1.0"
-description = "Mental Wealth MD Podcast Agent"
-authors = [{name="Mental Wealth MD", email="contact@example.com"}]
-dependencies = []
